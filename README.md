@@ -1,2 +1,2 @@
 # CybersecSenac
-Compilar projetos de segurança cibernética do curso técnico Senac
+Compilar projetos de segurança cibernética do curso técnico - Senac
